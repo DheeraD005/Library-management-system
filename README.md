@@ -61,11 +61,6 @@ npm start
 
 ❖════════════════════════════❖
 
-## 📸 Screenshots
-*(Add your project screenshots here)*
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## 🎯 Use Cases
 ➤ Schools and colleges  
 ➤ Small libraries  
@@ -73,21 +68,10 @@ npm start
 
 ❖════════════════════════════❖
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork and submit a PR.
+ 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 📌 Future Improvements
-➤ User authentication  
-➤ Fine calculation  
-➤ Admin dashboard  
-➤ Barcode/QR support  
 
-❖════════════════════════════❖
-
-## 📄 License
-This project is licensed under the **MIT License**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
